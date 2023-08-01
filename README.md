@@ -5,3 +5,6 @@ This tutorial mainly focuses on git and Github usage and branching etc.
 
 This repository is built step by step in the tutorial.
 it now have steps for GitHub Repository Pattern
+
+A new line is added ofr checkup!
+New things are added!
